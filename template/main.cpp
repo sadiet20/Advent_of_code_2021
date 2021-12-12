@@ -10,7 +10,7 @@ unsigned long long part2(ifstream&);
 int main(){
 	ifstream finput;
 	ifstream ftest;
-	unsigned unsigned long output;
+	unsigned long long output;
 
 	finput.open("input.txt");
 	ftest.open("test.txt");
